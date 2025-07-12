@@ -91,14 +91,9 @@
 
 ---
 
----
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohahmadraza&show_icons=true&locale=en&layout=compact" alt="IkramAli" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IkramAli&show_icons=true&locale=en" alt="IkramAli" /></p>
 
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohahmadraza&show_icons=true&locale=en&layout=compact" alt="mohahmadraza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohahmadraza&show_icons=true&locale=en" alt="mohahmadraza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohahmadraza&" alt="mohahmadraza" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohahmadraza&" alt="IkramAli" /></p>
