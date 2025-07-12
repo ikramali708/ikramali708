@@ -7,14 +7,9 @@
     <div class="container">
         <p> </p>
         <p>An Undergraduate Software Engineer @ UE, Lahore, (CGPA 3.6/4.00), currently in 7th semester.</p>
-
-
         <p>🔹 Learning Generative AI for building AI-driven projects.</p>
-    >
-
         <p>💻 Solved 100+ LeetCode questions and delivered 15 sessions on it.</p>
         <p>🎓 Awarded 100% Scholarship in Matric, Intermediate, and University.</p>
-
         <p>🏅 Ranked 100th out of 500+ teams in Programming Competition & Problem Solving.</p>
     </div>
 </body>
@@ -55,13 +50,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ikram-ali-282879256/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IkramAli" height="30" width="40" /></a>
-
-    
-
-
-
 <a href="https://leetcode.com/u/Ikram-Ali/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moh_ahmadraza" height="30" width="40" /></a>
-
 <a href="https://discord.gg/https://discord.com/channels/877056448956346408/903005318127157269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
