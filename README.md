@@ -1,7 +1,7 @@
 ![logo](https://github.com/ikramali708/ikramali708/blob/main/White%20Blue%20Professional%20Website%20Developer%20LinkedIn%20Banner.png)
 
 <h1 align="center">I'm Ikram Ali</h1>
-<h1><a href="https://ikramali708.vercel.app/">Visit My Portofolio</a></h1>
+<h1><a href="https://ikramali708.vercel.app/">Visit My Portfolio</a></h1>
 
 <body>
     <div class="container">
