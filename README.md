@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ikramali708/ikramali708/blob/main/White%20Blue%20Professional%20Website%20Developer%20LinkedIn%20Banner.png" alt="Ikram Ali Banner" width="100%"/>
+  <img src="https://github.com/ikramali708/ikramali708/blob/main/github%20banner.png" alt="Ikram Ali Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Ikram Ali</h1>
