@@ -1,88 +1,91 @@
-![logo](https://github.com/ikramali708/ikramali708/blob/main/White%20Blue%20Professional%20Website%20Developer%20LinkedIn%20Banner.png)
-
-<h1 align="center">I'm Ikram Ali</h1>
-<h1><a href="https://ikramali708.vercel.app/">Visit My Portfolio</a></h1>
-
-<body>
-    <div class="container">
-        <p> </p>
-        <p>An Undergraduate Software Engineer @ UE, Lahore, (CGPA 3.6/4.00), currently in 7th semester.</p>
-        <p>🔹 Learning Generative AI for building AI-driven projects.</p>
-        <p>💻 Solved 100+ LeetCode questions and delivered 15 sessions on it.</p>
-        <p>🎓 Awarded 100% Scholarship in Matric, Intermediate, and University.</p>
-        <p>🏅 Ranked 100th out of 500+ teams in Programming Competition & Problem Solving.</p>
-    </div>
-</body>
-
-<br>
-<br>
-
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-wrap: nowrap;">
-   <!-- Profile views (GitHub) -->
-   <img src="https://komarev.com/ghpvc/?username=mohahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" style="margin-left: 50px;" /> 
-
-   <!-- LeetCode Problems Solved -->
-   <img src="https://img.shields.io/badge/LeetCode-350%2B-orange" alt="LeetCode Questions Solved" style="margin-right: 10px;" />
-
-   <!-- GitHub Followers -->
-   <img src="https://img.shields.io/github/followers/mohahmadraza?label=Follow%20me&style=social" alt="GitHub Followers" style="margin-right: 10px;" />
-
+<div align="center">
+  <img src="https://github.com/ikramali708/ikramali708/blob/main/White%20Blue%20Professional%20Website%20Developer%20LinkedIn%20Banner.png" alt="Ikram Ali Banner" width="100%"/>
 </div>
 
-<br>
+<h1 align="center">Hi 👋, I'm Ikram Ali</h1>
+<h3 align="center">Software Engineer | MERN Stack • ASP.NET Core • AI Integration</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohahmadraza" alt="mohahmadraza" /></a> </p>
-
-- 🔭 I’m currently working on [LeetCode](https://leetcode.com/u/Ikram-Ali/)
-
-- 🌱 I’m currently learning **NEXT.JS**
-
-- 👯 I’m looking to collaborate on [Code In Place].
-
-- 💬 Ask me about **Python, C/C++, C#, React.JS, JavaScript, ASP.NET Cor Web API**
-
-- 📫 How to reach me **linkedin/in/IkramAli**
-
-- ⚡ Fun fact **I think I'm Humor, a content creater and a good conveyer**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ikram-ali-282879256/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="IkramAli" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Ikram-Ali/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="moh_ahmadraza" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/877056448956346408/903005318127157269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-</p>
-
---- 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;MERN+Stack+%7C+ASP.NET+Core+%7C+SQL+Server;AI+Model+Integration+Specialist;Building+Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 ---
 
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohahmadraza&show_icons=true&locale=en&layout=compact" alt="IkramAli" /></p>
+- 💻 Full-Stack Web Developer with **2 years of professional experience**
+- 🏢 Worked at **Inventstarts** (MEAN Stack) & **Gitribe** (ASP.NET Core, React, AI Integration)
+- 🤖 Specialized in **AI Model Integration** into web applications
+- 🔥 Expert in **MERN Stack** and **ASP.NET Core + EF Core**
+- 🧠 Solved **100+ LeetCode problems**
+- 🌱 Currently exploring **Next.js** and **Generative AI**
+- 📈 Focused on clean, scalable, and production-ready software
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikramali708&show_icons=true&locale=en" alt="IkramAli" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohahmadraza&" alt="IkramAli" /></p>
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 💼 Featured Project
+
+### 🌿 Smart Green Nursery — AI-Powered Plant Care System
+> Full-stack web application with AI-based plant disease detection, personalized care recommendations, and role-based dashboards for Admin, Nursery Owners, and Users.
+
+**Tech:** React • ASP.NET Core • Entity Framework Core • SQL Server • AI Integration
+
+🔗 [View Project](https://ikramali708.vercel.app)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikramali708&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikramali708&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikramali708&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://ikramali708.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ikram-ali-282879256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Ikram-Ali"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
+
+---
+
+<div align="center">
+  <i>"Building clean, scalable, and impactful software solutions."</i>
+</div>
