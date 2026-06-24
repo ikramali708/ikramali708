@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Web Developer with **2 years of professional experience**
+- 💻 Full-Stack Developer with **2 years of professional experience**
 - 🏢 Worked at **Inventstarts** (MEAN Stack) & **Gitribe** (ASP.NET Core, React, AI Integration)
 - 🤖 Specialized in **AI Model Integration** into web applications
 - 🔥 Expert in **MERN Stack** and **ASP.NET Core + EF Core**
@@ -26,29 +26,29 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-1a1a2e?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1a1a2e?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![C#](https://img.shields.io/badge/C%23-1a1a2e?style=for-the-badge&logo=csharp&logoColor=239120)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1a1a2e?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-1a1a2e?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-1a1a2e?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
@@ -57,10 +57,8 @@
 ### 🌿 Smart Green Nursery — AI-Powered Plant Care System
 > Full-stack web application with AI-based plant disease detection, personalized care recommendations, and role-based dashboards for Admin, Nursery Owners, and Users.
 
-**Tech:** React • ASP.NET Core • Entity Framework Core • SQL Server • AI Integration
-
-🔗 [View Project](https://ikramali708.vercel.app)
-
+**Tech:** 
+>React • ASP.NET Core • Entity Framework Core • SQL Server • AI Integration
 ---
 
 ## 📊 GitHub Stats
@@ -79,9 +77,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://ikramali708.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ikram-ali-282879256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Ikram-Ali"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://ikramali708.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ikram-ali-282879256"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+  <a href="https://leetcode.com/u/Ikram-Ali"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
 </p>
 
 ---
